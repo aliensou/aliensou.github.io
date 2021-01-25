@@ -1,13 +1,16 @@
 var web_style = $("#web_style").val();
 var valine_appid = $("#valine_appid").val();
 var valine_appKey = $("#valine_appKey").val();
+var placeholder = $("#placeholder").val();
+var lang = $("#lang").val();
 
 new Valine({
     el: '#vcomments',
     appId: valine_appid,
     appKey: valine_appKey,
-    placeholder: '有什么想说的吗？',
-    avatar: "wavatar"
+    placeholder: placeholder,
+    avatar: "robohash",
+    lang: lang
 })
 
 document.addEventListener('DOMContentLoaded', (event) => {
