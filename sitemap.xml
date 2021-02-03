@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://aliensou.github.io/2021/02/03/Windows10-2004%E8%87%AA%E5%8B%95%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%E3%81%97%E3%81%9FChromium%E7%89%88Microsoft-Edge%E3%82%92%E6%88%BB%E3%81%99%E6%96%B9%E6%B3%95/</loc>
+    
+    <lastmod>2021-02-03</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://aliensou.github.io/404.html</loc>
     
     <lastmod>2021-01-24</lastmod>
@@ -18,7 +25,7 @@
 
   <url>
     <loc>https://aliensou.github.io/</loc>
-    <lastmod>2021-02-01</lastmod>
+    <lastmod>2021-02-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
